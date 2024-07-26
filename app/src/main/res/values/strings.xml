@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TheNotes</string>
+
+    <!--Welcome page-->
+    <string name="the_prefix">The</string>
+    <string name="notes">Notes</string>
+    <string name="notes_about">All info in one place</string>
+    <string name="tasks">Tasks</string>
+    <string name="tasks_about">Reach your goal</string>
+    <string name="more_in_progress">More in progress</string>
+
+    <!--Notes page-->
+
+
+    <!--Images content description-->
+    <string name="new_note">New note button</string>
+    <string name="search_note">Search note button</string>
+    <string name="notes_back">Notes back button</string>
+    <string name="notes_bg_description">Notes screen background</string>
+    <string name="welcome_bg_description">Welcome screen background</string>
+    <string name="note_icon_description">Notes icon</string>
+    <string name="tasks_icon_description">Tasks icon</string>
+</resources>
